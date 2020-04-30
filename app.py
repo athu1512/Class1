@@ -8,7 +8,6 @@ q=cal.sub(x,y)
 w=cal.div(x,y)
 s=cal.mod(x,y)
 
-
 print(z)
 print(q)
 print(w)
