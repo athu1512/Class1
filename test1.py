@@ -5,5 +5,5 @@ find=dir(pl)
 
 print(find)
 
-num=rd.randint(10,50)
-print(num)
+n=rd.randint(10,50)
+print(n)
